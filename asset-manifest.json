@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/happy-birthday-kutty/static/css/main.03292161.css",
-    "main.js": "/happy-birthday-kutty/static/js/main.7a9e6f91.js",
-    "index.html": "/happy-birthday-kutty/index.html",
-    "main.03292161.css.map": "/happy-birthday-kutty/static/css/main.03292161.css.map",
-    "main.7a9e6f91.js.map": "/happy-birthday-kutty/static/js/main.7a9e6f91.js.map"
+    "main.css": "/static/css/main.03292161.css",
+    "main.js": "/static/js/main.58d87207.js",
+    "index.html": "/index.html",
+    "main.03292161.css.map": "/static/css/main.03292161.css.map",
+    "main.58d87207.js.map": "/static/js/main.58d87207.js.map"
   },
   "entrypoints": [
     "static/css/main.03292161.css",
-    "static/js/main.7a9e6f91.js"
+    "static/js/main.58d87207.js"
   ]
 }
